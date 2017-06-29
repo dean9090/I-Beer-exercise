@@ -30,10 +30,11 @@ img{
 }
 .wrapper{
     width: 1000px;
+    flex-flow: row wrap;
     /*display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;*/
+    /*flex-direction: row;
+    flex-wrap: wrap;*/
+    /*justify-content: center;*/
 
 
 
@@ -101,7 +102,7 @@ img{
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-    padding: 10px 20px;
+    padding: 10px 35px;
 
     /*
         TODO:
